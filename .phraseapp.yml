@@ -1,0 +1,10 @@
+phraseapp:
+  access_token: d566e9b90cd91e878d5d3a943e4d7dc28f199fb5f447eba64fcef5238fccadda
+  file_format: xml
+  project_id: 4863fdbb5cf0fb0ba1583de5cc5acd5b
+  pull:
+    targets:
+      - file: ../../app/src/main/res/values/strings.xml
+          params:
+            locale_id: 601e9a5b0aa744d1395921ef3c5efa97
+            format_options: { convert_placeholder : true }

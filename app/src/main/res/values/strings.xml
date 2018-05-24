@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SampleTestAppCenterGit</string>
+    <string name="ADD_VIDEO_TITLE_TEXT">add</string>
 </resources>
